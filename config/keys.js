@@ -1,0 +1,9 @@
+module.exports={
+  google:{
+    clientID:'811766296013-gf9ganrj4ntnro4tmu869rahln1k54od.apps.googleusercontent.com',
+    clientSecret:'tJJNaQbgDfwOMWox_FMzpEe2'
+  },
+  session:{
+    cookieKey:'dvbadsbvjdsbvvdsjvdsk'
+  }
+};
